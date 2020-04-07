@@ -21,5 +21,3 @@ For this program, I will write four (4) functions with the following names and b
 2. **get_level(num_drinks)** - takes in the reported number of drinks and returns the level of inebriation as an integer.
 3. **get_walk(drunk_level)** - takes in the level of inebriation and returns three values as a list of integers: the length of the step taken, and the step pattern (number of steps forward and number of steps backward).
 4. **update(current_position, step_direction, step_length)** - takes in the current position, step direction (+1 for forward, -1 for backward) and length of step, and returns the updated position as an integer.
-
-### 1. Main Function
