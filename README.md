@@ -50,3 +50,7 @@ In the Free city of Braavos lies the Iron Bank. Legend has it that it is a bank 
 4. The only numbers allowed are those divisible by either 2 or 3.
 
 The Iron Bank needs help in verifying if the password set by the queen is valid. Please help the Lords of the Iron Bank design a program that performs this check
+
+## Program: Word Games
+
+You’ve just been recently hired at Bob's Wacky Words, the company behind many of the best known wacky word based board games. Unfortunately one of the company’s more recent games was too complicated in the way that it scored the players, so in order to increase the sales of the game the company has asked you to develop an app to do the scoring automatically.
