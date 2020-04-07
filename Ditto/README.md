@@ -8,7 +8,7 @@
 
 You are out for a pleasant Pokéwalk with your favorite Pokémon, Ditto:
 
-
+![Image Desscription](https://github.com/zshi74/Python-Programming/blob/master/Ditto/Pic/Ditto.png)
 *(DITTO rearranges its cell structure to transform itself into other shapes)*
 
 Ditto has the ability to absorb the powers and mimic the appearance of other Pokémon you encounter. It will be up to you to write a program to help generate these Pokémon and help your Ditto decide whether to add other Pokémon's powers to its repertoire, or let them pass by.
