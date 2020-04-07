@@ -1,6 +1,3 @@
-#My name: Zicheng Shi
-#Partner: Yuke Liu
-
 def has_unique_letters(pw_1):
     count1=0
     while count1 < len(pw_1):
