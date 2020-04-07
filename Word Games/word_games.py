@@ -1,6 +1,5 @@
 import random
 
-#function1
 """ let the first letter to be the max """
 def most_repeated_letters(word_1):
   max_letter = word_1[0]
@@ -10,8 +9,6 @@ def most_repeated_letters(word_1):
        max = word_1.count(c)
   return max
 
-
-#function2
   """ count the number of vowels and consonants """
 def has_equal_letters(word_2):
   vowel = ("a","e","i","o","u")
@@ -27,7 +24,6 @@ def has_equal_letters(word_2):
   else:
     return False
 
-#function3
   """ firstly evaluate the first letter and the last letter """
 def is_palindrome(word_3):
 	left_char = 0
@@ -39,7 +35,6 @@ def is_palindrome(word_3):
 		right_char = right_char - 1
 	return True
 
-#function4
 """ use the idea from midterm1 """
 def total_points(word):
   x = len(word)
@@ -53,7 +48,6 @@ def total_points(word):
     x = x * 5
   return x
 
-#function5
   """ count how many y in the two words """
 def is_trick_round(p1_word, p2_word):
   n1 = p1_word.count('y')
