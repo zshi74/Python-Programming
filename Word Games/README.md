@@ -8,8 +8,6 @@
 
 You’ve just been recently hired at Bob's Wacky Words, the company behind many of the best known wacky word based board games. Unfortunately one of the company’s more recent games was too complicated in the way that it scored the players, so in order to increase the sales of the game the company has asked you to develop an app to do the scoring automatically.
 
-They've already got the game portion of the program written (get it here!Preview the document), they just need your help with the score calculation functions.
-
 ## Program Requirements
 
 For this program, I will write five (5) functions with the following names and behaviors:
