@@ -12,7 +12,8 @@ The UW–Madison Doctor of Physical Therapy program runs a Massage Fundraiser ev
 * $20 for a 15-minute massage
 * $30 for a 30-minute massage
 * $60 for a 60-minute massage
-We'll be writing a program to help the physical therapy students schedule their days and calculate how much money they will be raising for the Doctor of Physical TherapyLinks to an external site. program.
+
+We'll be writing a program to help the physical therapy students schedule their days and calculate how much money they will be raising for the Doctor of Physical Therapy program.
 
 ## Program Stucture
 
