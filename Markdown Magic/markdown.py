@@ -1,5 +1,4 @@
 #Name: Zicheng Shi
-#Partner: Fei Wang
 
 #function1: Add paragraph tag
 def paragraph(line):
