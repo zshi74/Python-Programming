@@ -3,7 +3,7 @@
 * String manipulation
 
 ## Summary
-If you use many popular internet forums, you may already be familiar with Markdown (Links to an external site.) syntax for formatting text online. It's very common because it's quite easy to convert from Markdown to HTML using some basic string operations (concatenation, slicing, indexing) – and that's exactly what you're going to do this week.
+If you use many popular internet forums, you may already be familiar with Markdown (Links to an external site.) syntax for formatting text online. It's very common because it's quite easy to convert from Markdown to HTML using some basic string operations (concatenation, slicing, indexing) – and that's exactly what you're going to do this time.
 
 ## Program Structure
 
